@@ -29,7 +29,7 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/AerodynamicV1Botz/TeleGram-Scraper.git`
 
 `$ cd TeleGram-Scraper`
 
